@@ -21,10 +21,6 @@ number-counter/
 └── index.js        # JavaScript logic for counter functionality
 ```
 
-## 📷 Preview
-
-![Preview](#) <!-- You can add a screenshot later -->
-
 ## 🔧 How to Run
 
 1. Clone the repository or download the files.
